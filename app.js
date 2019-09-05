@@ -1,7 +1,7 @@
 $(document).ready(function()
   {
 
-    var topics = ["chelsea", "messi", "USMNT"]
+    var topics = ["Chelsea FC", "Messi", "USMNT", "Pulisic"]
     renderButton();
     function renderButton() {
 
